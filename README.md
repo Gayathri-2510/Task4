@@ -1,6 +1,6 @@
 USER MANAGEMENT REST API WITH FLASK
 
-    This includes a work sample of a RESTful API with Flask to work with user information in-memory. It also offers basic CRUD functions and the clients can create, retrieve, update, and delete user records via well-defined APIs. The validity of data and proper HTTP responses are performed by the API, hence robustness and usability. The application illustrates key principles of REST API development, such as the route processing and working with JSON data and a memory based data management.
+This includes a work sample of a RESTful API with Flask to work with user information in-memory. It also offers basic CRUD functions and the clients can create, retrieve, update, and delete user records via well-defined APIs. The validity of data and proper HTTP responses are performed by the API, hence robustness and usability. The application illustrates key principles of REST API development, such as the route processing and working with JSON data and a memory based data management.
 
 Interacting with the API Using curl
 
